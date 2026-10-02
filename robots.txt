@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rookie400.github.io/VEA_STRUCTURAL_COMPOSITES_INC/sitemap.xml
